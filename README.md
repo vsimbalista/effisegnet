@@ -5,7 +5,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/effisegnet-gastrointestinal-polyp/medical-image-segmentation-on-kvasir-seg)](https://paperswithcode.com/sota/medical-image-segmentation-on-kvasir-seg?p=effisegnet-gastrointestinal-polyp)
 
 ## Paper
-Presented in the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2024) on July 16th 2024.
+
 [![arXiv](https://img.shields.io/badge/arXiv-2407.16298-b31b1b.svg)](https://arxiv.org/abs/2407.16298)
 
 ## Requirements
