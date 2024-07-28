@@ -5,6 +5,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/effisegnet-gastrointestinal-polyp/medical-image-segmentation-on-kvasir-seg)](https://paperswithcode.com/sota/medical-image-segmentation-on-kvasir-seg?p=effisegnet-gastrointestinal-polyp)
 
 ## Paper
+Presented in the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2024) on July 16th 2024.
 [![arXiv](https://img.shields.io/badge/arXiv-2407.16298-b31b1b.svg)](https://arxiv.org/abs/2407.16298)
 
 ## Requirements
@@ -18,5 +19,5 @@ conda env create -f environment.yml
 ## Dataset
 
 The dataset used for training, validation, and testing is the Kvasir-SEG dataset. The dataset can be downloaded from [here](https://datasets.simula.no/kvasir-seg/). 
+However, the dataset and the splits are already available in this repository, for reproducibility of our results.
 It contains 1000 images of the gastrointestinal tract and their corresponding ground truth polyp segmentation masks.
-For easy reproduction of our results, it is divided into 800 training, 100 validation, and 100 testing images.
