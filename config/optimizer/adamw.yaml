@@ -1,1 +1,2 @@
-_target_: torch.optim.AdamW
+# Configurações do otimizador
+_target_: torch.optim.AdamW  # Define o otimizador AdamW do PyTorch (variante do Adam com weight decay)
